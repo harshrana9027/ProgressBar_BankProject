@@ -367,6 +367,6 @@ public static void main(String[] args)
 {    
    ProgressBar_BankProject m=new ProgressBar_BankProject();    
     m.setVisible(true);    
-    m.iterate();    
+    m.iterate();    ;;;;;;;;;;;
 }    
 }    
