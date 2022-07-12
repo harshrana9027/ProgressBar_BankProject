@@ -12,7 +12,7 @@ public class ProgressBar_BankProject extends JFrame
 {    
   JFrame f;
   JLabel l;
-  JDesktopPane desktop;
+  JDesktopPane desktop1;
   JProgressBar pb;    
   int i=0;     
   ProgressBar_BankProject()
